@@ -1,0 +1,10 @@
+site_name: NeowayFAE WiKi
+site_description: 'A docs test'
+site_author: 'Tang Xiabing'
+docs_dir: docs/
+repo_name: 'Bingboom/Neoway-Documentation'
+repo_url: 'https://github.com/Bingboom/Neoway-Documentation.git'
+nav:
+    - Home: index.md
+theme:
+  name: 'material'
